@@ -47,3 +47,8 @@ local.properties
 # IDEA project files
 *.ipr
 *.iws
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+users/sergi
